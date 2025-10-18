@@ -1,0 +1,14 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+tiny-imagenet-200/
+tiny-imagenet-200.zip
+
+tiny-imagenet-200.zip
